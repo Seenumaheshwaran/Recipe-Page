@@ -1,0 +1,31 @@
+*{
+    background-color: #D6EFD8;
+    
+}
+.recipe-container {
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 20px;
+	background-color: #80AF81;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+    border: 1px solid #D6EFD8;
+    border-radius: 5px;
+    background-color: #80AF81;
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	color: white;
+}
+
+h2,li,ul,ol,p{
+    background-color: #80AF81;
+}
+h2{
+  color:white;
+}
